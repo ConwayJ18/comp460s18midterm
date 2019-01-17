@@ -1,4 +1,4 @@
-package src6.alice;
+//package src6.alice;
 
 import java.io.File;
 import java.io.IOException;

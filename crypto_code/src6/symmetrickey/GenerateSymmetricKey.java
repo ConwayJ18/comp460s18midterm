@@ -1,4 +1,4 @@
-package src6.symmetrickey;
+//package src6.symmetrickey;
 
 import java.io.File;
 import java.io.FileOutputStream;
